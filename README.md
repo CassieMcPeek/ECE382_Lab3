@@ -16,3 +16,9 @@ The prelab was turned in as a hardcopy to Capt Trimble.
   
   
 ![alt text] (https://raw.github.com/CassieMcPeek/ECE382_Lab3/master/Table1.JPG "Logic Analyzer")
+
+After the table above was filled out and understood, I captured the generated waveform on the logic analyzer. The captured waveform is shown below:
+
+![alt text] (https://raw.github.com/CassieMcPeek/ECE382_Lab3/master/Lab3_logic_analyzer.png "Logic Analyzer")
+
+
