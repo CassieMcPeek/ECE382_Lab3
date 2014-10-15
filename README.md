@@ -23,5 +23,5 @@ After the table above was filled out and understood, I captured the generated wa
 
 I then used the table above as well as the generated waveform in order to fill out the table below:
 
-![alt text] (https://raw.github.com/CassieMcPeek/ECE382_Lab3/master/Lab3_Reset_Analyzer "Logic Analyzer")
+![alt text] (https://raw.github.com/CassieMcPeek/ECE382_Lab3/master/Table2.JPG "Logic Analyzer")
 
