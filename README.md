@@ -39,3 +39,5 @@ The updated code can be seen in the Lab3.asm file.
 
 I demonstrated required functionality to Capt Trimble on 15 OCT. 
 
+Documentation: C2C Ian Goodbody assisted me with the required functionaility by assisting me in debugging my code and checking my syntax. Also C2C Dustin Weisner helped me format the logic analyzer to produe the desired waveforms. 
+
