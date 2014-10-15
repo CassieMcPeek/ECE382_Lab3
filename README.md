@@ -21,11 +21,11 @@ After the table above was filled out and understood, I captured the generated wa
 
 ![alt text] (https://raw.github.com/CassieMcPeek/ECE382_Lab3/master/Lab3_logic_analyzer.png "Logic Analyzer")
 
-I then used the table above as well as the generated waveform in order to fill out the table below:
+I then used the first talbe along with the generated waveform in order to fill out the table below:
 
 ![alt text] (https://raw.github.com/CassieMcPeek/ECE382_Lab3/master/Table2.JPG "Logic Analyzer")
 
-When the button is pressed, ther is a gap between the current line and the previous one because the commands in lines 276 and 294 are increased by 1. The data passed in through line 66 is never altered and the command executed in line 288 is never changed. 
+When the button is pressed, there is a gap between the current line and the previous one because the commands in lines 276 and 294 are increased by 1. The data passed in through line 66 is never altered and the command executed in line 288 is never changed. The value for line 66 is 1110011 which is equivalent to 0xE7 in the first table, that is how I concluded that the waveform captured was indeed functioning properly. 
 
 Next, I configured the logic analyzer to produce a waveform to show reset on the falling edge:
 
@@ -37,7 +37,7 @@ The required functionality of this lab was to create a block on the LCD that is 
 
 The updated code can be seen in the Lab3.asm file. 
 
-I demonstrated required functionality to Capt Trimble on 15 OCT. 
+I demonstrated required functionality to Capt Trimble on 15 OCT at 1330. 
 
-Documentation: C2C Ian Goodbody assisted me with the required functionaility by assisting me in debugging my code and checking my syntax. Also C2C Dustin Weisner helped me format the logic analyzer to produe the desired waveforms. 
+Documentation: C2C Ian Goodbody assisted me with the required functionaility by assisting me in debugging my code and checking my syntax. Also C2C Dustin Weisner helped me format the logic analyzer to produce the desired waveforms. 
 
