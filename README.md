@@ -31,4 +31,11 @@ Next, I configured the logic analyzer to produce a waveform to show reset on the
 
 ![alt text] (https://raw.github.com/CassieMcPeek/ECE382_Lab3/master/Lab3_Reset_Analyzer.png "Logic Analyzer")
 
+# Functionality
+
+The required functionality of this lab was to create a block on the LCD that is 8x8 pixels with the location of the block passed in through the subroutine via r12 and r13. 
+
+The updated code can be seen in the Lab3.asm file. 
+
+I demonstrated required functionality to Capt Trimble on 15 OCT. 
 
