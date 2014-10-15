@@ -25,3 +25,10 @@ I then used the table above as well as the generated waveform in order to fill o
 
 ![alt text] (https://raw.github.com/CassieMcPeek/ECE382_Lab3/master/Table2.JPG "Logic Analyzer")
 
+When the button is pressed, ther is a gap between the current line and the previous one because the commands in lines 276 and 294 are increased by 1. The data passed in through line 66 is never altered and the command executed in line 288 is never changed. 
+
+Next, I configured the logic analyzer to produce a waveform to show reset on the falling edge:
+
+![alt text] (https://raw.github.com/CassieMcPeek/ECE382_Lab3/master/Lab3_Reset_Analyzer.png "Logic Analyzer")
+
+
